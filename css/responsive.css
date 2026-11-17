@@ -1,0 +1,9 @@
+/* PocketLedger v3.0 — Mobile-First & Tablet Responsive Styles (css/responsive.css) */
+@media (max-width: 767px) {
+  body {
+    padding-bottom: 5.5rem;
+  }
+  input, select, button {
+    min-height: 38px;
+  }
+}
